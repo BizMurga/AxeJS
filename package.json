@@ -1,0 +1,34 @@
+{
+	"name": "axejs",
+	"title": "AxeJS: jQuery Plugin",
+	"description": "Easy HTML5+JS UI, AJAX navigation and social networks integration, published as jQuery Plugin.",
+	"version": "0.1.0beta",
+	"homepage": "http://axejs.com",
+	"author": "Annexare Studio",
+	"maintainers": [
+	{
+		"name": "Dmitry",
+		"email": "z@annexare.com",
+		"url": "http://annexare.com"
+	}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/annexare/AxeJS.git"
+	},
+	"bugs": "https://github.com/annexare/AxeJS/issues",
+	"licenses": [
+	{
+		"type": "MIT",
+		"url": "http://www.opensource.org/licenses/MIT"
+	}
+	],
+	"dependencies": {
+		"jquery": ">=1.7"
+	},
+	"dependenciesNot": {
+		"jquery.ui.widget": ">=1.8"
+	},
+	"devDependencies": {},
+	"keywords": ["ui","html5","javascript","jquery"]
+}
